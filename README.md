@@ -18,7 +18,7 @@ Repositório com os exercícios e exemplos práticos desenvolvidos durante o mó
 
 ## 📁 Estrutura do projeto
 
-- `coverage/`: pasta que será gerada automaticamente ao rodar o comando `npm run`, com os relatórios de cobertura de testes.
+- `coverage/`: pasta que será gerada automaticamente ao rodar o comando `npm run` no terminal, com os relatórios de cobertura de testes.
 - `src/`: código-fonte e testes divididos por contexto:
 - `classes/`: implementação principal das funcionalidades.
 - `interfaces/`: contratos utilizados entre componentes (ex:mensagens, carrinho, etc).
