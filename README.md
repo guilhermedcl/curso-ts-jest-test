@@ -40,7 +40,7 @@ Repositório com os exercícios e exemplos práticos desenvolvidos durante o mó
 
 ## 🧪 Como executar os testes
 
-1. Instale as dependências com:
+1. No terminal, instale as dependências com:
 
 ```bash
 npm install
