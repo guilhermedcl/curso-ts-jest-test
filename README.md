@@ -34,7 +34,7 @@ Repositório com os exercícios e exemplos práticos desenvolvidos durante o mó
 - TypeScript
 - Jest (Framework de testes)
 - ESLint
-- Node.js e NPM
+- Node.js (para gerenciamento de dependências e scripts NPM)
 
 ---
 
