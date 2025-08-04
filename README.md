@@ -25,7 +25,7 @@ Repositório com os exercícios e exemplos práticos desenvolvidos durante o mó
 - `examples/`: exemplos de uso e testes personalizados.
 - `services/`: camadas de serviço com lógica de negócios.
 - `main.ts`: ponto de entrada do sistema.
-- `.vscode`, `.eslintrc.js`, `.editorconfig`, `.gitignore`, `tsconfig.json`, etc.: arquivos de configuração.
+- `.vscode`, `.eslintrc.js`, `.editorconfig`, `.gitignore`, `jest.config.js`, `tsconfig.json`, etc.: arquivos de configuração.
 
 ---
 
@@ -34,7 +34,7 @@ Repositório com os exercícios e exemplos práticos desenvolvidos durante o mó
 - TypeScript
 - Jest (Framework de testes)
 - ESLint
-- Node.js (para rodar scripts npm)
+- Node.js e NPM
 
 ---
 
